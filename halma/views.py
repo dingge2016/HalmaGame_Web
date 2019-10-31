@@ -6,4 +6,3 @@ from django.http import HttpResponse
 
 def board(request):
     return render(request, 'halma/board.html')
-
