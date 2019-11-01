@@ -20,6 +20,7 @@ from halma import views
 urlpatterns = [
     path('halma/', include('halma.urls')),
     path('admin/', admin.site.urls),
+    path('', include('frontend.urls')),
     # path('polls/latest', views.index, name='index'),
     # path('<int:question_id>/', views.detail, name='detail'),
     # path('<int:question_id>/results/', views.results, name='results'),
