@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26314735-cf4d-4f39-83c5-9eecd42e50b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HalmaProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/HalmaProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/halma/Chess.py" beforeDir="false" afterPath="$PROJECT_DIR$/halma/Chess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/halma/fixtures/board.json" beforeDir="false" afterPath="$PROJECT_DIR$/halma/fixtures/board.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/halma/Chess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/halma/agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/halma/agent.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +99,7 @@
       <workItem from="1572404461830" duration="7633000" />
       <workItem from="1572470879647" duration="1311000" />
       <workItem from="1572554827758" duration="6119000" />
-      <workItem from="1572582584308" duration="4139000" />
+      <workItem from="1572582584308" duration="4489000" />
     </task>
     <task id="LOCAL-00001" summary="add AI">
       <created>1572564934277</created>
@@ -132,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572646102459</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add AI">
+      <created>1572647241564</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572647241564</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
