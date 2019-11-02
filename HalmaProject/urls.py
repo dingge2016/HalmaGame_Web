@@ -18,7 +18,7 @@ from django.urls import path, include
 from polls import views
 from halma import views
 urlpatterns = [
-    path('halma/', include('halma.urls')),
+    path('', include('halma.urls')),
     path('admin/', admin.site.urls),
     path('', include('frontend.urls')),
     # path('polls/latest', views.index, name='index'),
